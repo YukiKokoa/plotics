@@ -96,4 +96,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Created by Yuki K. on 2025-05-3
+Created by Yuki K. on 2025-05-03
