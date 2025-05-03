@@ -89,7 +89,7 @@ Here's a basic example of how to use `Plotics`:
         encoder.Save(fs);
     }
     */
-
+```
 ## License
 
 This project is licensed under the MIT License.
